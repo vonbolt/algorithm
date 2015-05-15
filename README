@@ -1,33 +1,31 @@
-Ç°ÑÔ£º¸Ã¹¤³Ì´æ·ÅÓĞ¹ØËã·¨µÄCÓïÑÔÔ´´úÂë£¬ËùÓĞ´úÂë¶¼ÔÚVC++6.0ÏÂ±àÒëÔËĞĞÍ¨¹ı¡£
-      »¶Ó­´ó¼ÒÅúÆÀÖ¸Õı¡£
-×÷Õß£ºguomeizhou
-ÓÊÏä£ºgmeizhou@163.com
+å‰è¨€ï¼šè¯¥å·¥ç¨‹å­˜æ”¾æœ‰å…³ç®—æ³•çš„Cè¯­è¨€æºä»£ç ï¼Œæ‰€æœ‰ä»£ç éƒ½åœ¨VC++6.0ä¸‹ç¼–è¯‘è¿è¡Œé€šè¿‡ã€‚
+      æ¬¢è¿å¤§å®¶æ‰¹è¯„æŒ‡æ­£ã€‚
 
 /////////////////////////////////////////////////////////
 
-Â·¾¶: ./sort/
-ÄÚÈİ: ³£¼ûÅÅĞòËã·¨
+è·¯å¾„: ./sort/
+å†…å®¹: å¸¸è§æ’åºç®—æ³•
 
-¹¦ÄÜ                  ÎÄ¼şÃû
-Ã°ÅİÅÅĞò              BubbleSort.c
-Í°ÅÅĞò                BucketSort.c
-¼ÆÊıÅÅĞò              CountingSort.c
-¶ÑÅÅĞò                HeapSort.c
-²åÈëÅÅĞò              InsertSort.c
-¶ş·Ö²åÈëÅÅĞò          InsertSort_Binary.c
-¶şÂ·²åÈëÅÅĞò          InsertSort_TwoPath.c
-¹é²¢ÅÅĞò              MergeSort.c
-·Çµİ¹é¹é²¢ÅÅĞò        MergeSort_NoRecursion.c
-¿ìËÙÅÅĞò              QuickSort.c
-·Çµİ¹é¿ìËÙÅÅĞò        QuickSort_NoRecursion.c
-»ùÊıÅÅĞò              RadixSort.c
-Ñ¡ÔñÅÅĞò              SelectSort.c
-Ï£¶ûÅÅĞò              ShellSort.c
+åŠŸèƒ½                  æ–‡ä»¶å
+å†’æ³¡æ’åº              BubbleSort.c
+æ¡¶æ’åº                BucketSort.c
+è®¡æ•°æ’åº              CountingSort.c
+å †æ’åº                HeapSort.c
+æ’å…¥æ’åº              InsertSort.c
+äºŒåˆ†æ’å…¥æ’åº          InsertSort_Binary.c
+äºŒè·¯æ’å…¥æ’åº          InsertSort_TwoPath.c
+å½’å¹¶æ’åº              MergeSort.c
+éé€’å½’å½’å¹¶æ’åº        MergeSort_NoRecursion.c
+å¿«é€Ÿæ’åº              QuickSort.c
+éé€’å½’å¿«é€Ÿæ’åº        QuickSort_NoRecursion.c
+åŸºæ•°æ’åº              RadixSort.c
+é€‰æ‹©æ’åº              SelectSort.c
+å¸Œå°”æ’åº              ShellSort.c
 
 /////////////////////////////////////////////////////////
 
-Â·¾¶: ./question_and_answer/sort/
-ÄÚÈİ: ÓĞ¹ØÅÅĞòµÄÎÊÌâºÍ´ğ°¸
+è·¯å¾„: ./question_and_answer/sort/
+å†…å®¹: æœ‰å…³æ’åºçš„é—®é¢˜å’Œç­”æ¡ˆ
 
-ÎÊÌâÎÄ¼şÃû: question.txt
-´ğ°¸ÎÄ¼şÃû: answer_001.c ~ answer_003.c
+é—®é¢˜æ–‡ä»¶å: question.txt
+ç­”æ¡ˆæ–‡ä»¶å: answer_001.c ~ answer_003.c
